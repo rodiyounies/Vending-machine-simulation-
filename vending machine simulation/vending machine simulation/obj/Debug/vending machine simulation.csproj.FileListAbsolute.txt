@@ -1,0 +1,6 @@
+C:\development\projects\csharp\vending machine simulation\vending machine simulation\bin\Debug\vending machine simulation.exe.config
+C:\development\projects\csharp\vending machine simulation\vending machine simulation\bin\Debug\vending machine simulation.exe
+C:\development\projects\csharp\vending machine simulation\vending machine simulation\bin\Debug\vending machine simulation.pdb
+C:\development\projects\csharp\vending machine simulation\vending machine simulation\obj\Debug\vending machine simulation.csprojAssemblyReference.cache
+C:\development\projects\csharp\vending machine simulation\vending machine simulation\obj\Debug\vending machine simulation.exe
+C:\development\projects\csharp\vending machine simulation\vending machine simulation\obj\Debug\vending machine simulation.pdb
